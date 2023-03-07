@@ -1,5 +1,5 @@
 # Sound-Classification-Wavelet-Transform
-![](image.jpg)
+
 
 ## Definition
 
